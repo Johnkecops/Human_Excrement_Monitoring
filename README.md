@@ -2,7 +2,7 @@
 
 **Authors:** Nadine Swastika, Winda Hasuki, Sava Savero, Putri Gabriella Satya, Arli Aditya Parikesit  
 **Affiliation:** Department of Bioinformatics, Indonesia International Institute for Life Sciences (i3L), Jakarta  
-**Reference:** Swastika N. et al. (2021). Water Intake Applet Based on Human Excrement. *Jurnal Riset Informatika*, 3(2), 109–118. DOI: [10.34288/jri.v3i2.56](https://doi.org/10.34288/jri.v3i2.56)
+**Reference:** Swastika N. et al. (2021). Water Intake Applet Based on Human Excrement. *Jurnal Riset Informatika*, 3(2), 109–118. https://www.researchgate.net/publication/349782022_WATER_INTAKE_APPLET_BASED_ON_HUMAN_EXCREMENT
 
 ---
 
@@ -162,4 +162,4 @@ This is a screening tool, not a diagnostic device. It cannot replace a clinical 
 
 If you use this application in research or teaching, cite the original paper:
 
-> Swastika, N., Hasuki, W., Savero, S., Satya, P. G., & Parikesit, A. A. (2021). Water Intake Applet Based on Human Excrement. *Jurnal Riset Informatika*, 3(2), 109–118. https://doi.org/10.34288/jri.v3i2.56
+> Swastika, N., Hasuki, W., Savero, S., Satya, P. G., & Parikesit, A. A. (2021). Water Intake Applet Based on Human Excrement. *Jurnal Riset Informatika*, 3(2), 109–118. https://www.researchgate.net/publication/349782022_WATER_INTAKE_APPLET_BASED_ON_HUMAN_EXCREMENT
