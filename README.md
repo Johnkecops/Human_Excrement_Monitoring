@@ -163,3 +163,5 @@ This is a screening tool, not a diagnostic device. It cannot replace a clinical 
 If you use this application in research or teaching, cite the original paper:
 
 > Swastika, N., Hasuki, W., Savero, S., Satya, P. G., & Parikesit, A. A. (2021). Water Intake Applet Based on Human Excrement. *Jurnal Riset Informatika*, 3(2), 109–118. https://www.researchgate.net/publication/349782022_WATER_INTAKE_APPLET_BASED_ON_HUMAN_EXCREMENT
+>
+> **AI Assistance Disclaimer**: This codebase was developed with the assistance of Claude Code. While the AI provided code generation, debugging, and structural support, the human developer maintains full responsibility for reviewing, testing, and maintaining all content and functionality.
