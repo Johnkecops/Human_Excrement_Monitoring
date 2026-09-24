@@ -108,7 +108,7 @@ _STOOL_RESULTS: dict[int, dict] = {
     3: {
         "level": 3,
         "status": "Mild Abnormality",
-        "message": "Your stool is normal.",
+        "message": "Your stool shows mild abnormalities.",
         "advice": "But if it persists, please consult a doctor.",
         "log_label": "Mild Abnormalities",
         "color": "#ffe0b2",
